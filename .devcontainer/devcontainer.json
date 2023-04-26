@@ -37,7 +37,7 @@
       },
 
       // java
-      "ghcr.io/devcontainers/features/java:11": {
+      "ghcr.io/devcontainers/features/java:latest": {
         "version": "11",
         "installGradle" : true
       },
